@@ -1,5 +1,5 @@
 # Curriculo Básico
 
-## Desenvolvido em HTML5, CSS3 e JavaScript
+## Projeto Desenvolvido utilizando as tecnologias HTML5, CSS3 e JavaScript.
 
-![Jogo da Velha](img/image-curriculo.jpg)
+![Currículo Básico](img/image-curriculo.jpg)
