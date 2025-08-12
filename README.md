@@ -1,2 +1,3 @@
-Repositório de Projetos Web Fullstack
-Este repositório reúne diversos projetos desenvolvidos utilizando as tecnologias HTML5, CSS3, JavaScript e Node.js, com foco em aplicações front-end e back-end que seguem boas práticas de desenvolvimento, modularidade e escalabilidade.
+Repositório de Projetos Web Fullstack — HTML5, CSS3, JavaScript e Node.js
+
+Este repositório centraliza uma coleção estruturada de projetos web desenvolvidos utilizando as principais tecnologias modernas para desenvolvimento front-end e back-end, a saber: HTML5, CSS3, JavaScript e Node.js. O objetivo é demonstrar o domínio de conceitos fundamentais, boas práticas de engenharia de software, organização de código, modularidade e escalabilidade, com foco em soluções reais e aplicáveis.
